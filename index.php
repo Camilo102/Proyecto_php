@@ -74,7 +74,7 @@ require_once("views/modulos/head.php");
             <div class="icheck-primary">
               <input type="checkbox" id="remember">
               <label for="remember">
-                Remember Me
+                Re cargar
               </label>
             </div>
           </div>
